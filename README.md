@@ -1,42 +1,45 @@
-# GestureVoice Assist System
+# ✋🎤 GestureVoice Assist System
 
-A touchless human-computer interaction system that enables real-time computer control using hand gestures and voice commands.
+A touchless **Human–Computer Interaction Platform** that enables users to control their computer using **hand gestures and voice commands** through an intelligent multi-modal dashboard.
 
-## Features
+---
 
-* Hand gesture recognition using MediaPipe and OpenCV
-* Voice command support using Web Speech API
-* Desktop, Presentation, and Media control modes
-* Real-time logs and system monitoring
-* Gesture customization dashboard
+## 🚀 Project Overview
 
-## Tech Stack
+GestureVoice Assist System was designed to provide a seamless and accessible way to interact with computers without traditional input devices. The system combines **computer vision**, **voice recognition**, and **modern dashboard interfaces** to deliver a hands-free computing experience.
 
-### Frontend
+The platform supports multiple operational contexts including desktop automation, presentation control, and media interaction.
 
-* React.js
-* TypeScript/JavaScript
+---
 
-### Backend
+## ✨ Key Features
 
-* FastAPI
-* OpenCV
-* MediaPipe
+### 🎛️ Interactive Dashboard
 
-## Getting Started
+* Real-time backend status monitoring
+* Current operating mode display
+* Last detected gesture tracking
+* Last executed action logs
+* Start/Stop gesture engine controls
 
-### Frontend
+### ✋ Dynamic Gesture Mapping
 
-```bash
-cd frontend
-npm install
-npm run dev
-```
+* Configure gesture-to-action mappings
+* Context-aware customization
+* Save/Delete mappings without modifying source code
+* Mode-specific gesture configurations
 
-### Backend
+### 🎤 Intelligent Voice Commands
 
-```bash
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
+* Hands-free voice interaction
+* Voice-based mode switching
+* Real-time speech transcription
+* Manual execution of recognized commands
+* Wake-word support
+
+### 📜 Activity Logs
+
+* Timestamped system events
+* Gesture activity tracking
+* Voice activity tracking
+* Executed
