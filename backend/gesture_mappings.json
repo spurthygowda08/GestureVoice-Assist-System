@@ -1,0 +1,23 @@
+{
+  "desktop": {
+    "palm": "open_calculator",
+    "fist": "",
+    "thumbs_up": "",
+    "shaka_sign": "",
+    "rock_sign": ""
+  },
+  "presentation": {
+    "palm": "next_slide",
+    "fist": "",
+    "thumbs_up": "",
+    "shaka_sign": "",
+    "rock_sign": ""
+  },
+  "media": {
+    "palm": "",
+    "fist": "",
+    "thumbs_up": "",
+    "shaka_sign": "",
+    "rock_sign": ""
+  }
+}
